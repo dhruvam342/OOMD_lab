@@ -1,0 +1,18 @@
+1.College information system has admin who manages the staff ,student and department.
+2.Admin can view and modify the student’s records like student’s profile, attendance, fee, results, 
+and details of teachers and other employees in college, their personal information
+and their attendance for their salaries.
+3 In this system, user authentication will be done by login by user name and password and
+classified by user type. 
+4.Staff in college teach more than one course to many students and the staff who are teachers
+conduct examinations for students of the college
+5.The students of the college register themselves in the department and for the courses they are
+interested in and join the college by taking admission and following all the admission
+procedures.
+6.There are different types of examination conducted by the college for the students. Internals
+and semester end examination are two of them.
+7.Every course has a name and its unique name. 
+8.Every course has different subjects and every
+subject has its own unique name.
+9.Department will provide the details about departments within a college with their name and
+every department have its Department name.
