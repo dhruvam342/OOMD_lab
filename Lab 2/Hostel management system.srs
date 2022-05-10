@@ -1,0 +1,17 @@
+1.Hostel management system has admin who manages the hostel,allot-es and payment
+methods.The admin will allocate a room to student according to the section or class. The
+admin will also keep track of the payment made by the student/allot-es . 
+2.As the student’s course is over they will vacate their rooms. So it is required for the
+administrator to remove their records from the database tables.
+3.The allot-es makes payment according to the bill generated which have the attributes bill
+number,type and date.
+4.The details of the students staying in the hostels like name, place, address, contact details
+is maintained in the database.
+5.The hostel is categorized into two types I.e boys and girls hostel.Each hostel type has
+different costs ,warden and name.
+6.A hostel is made up of mess and rooms.A mess account will also generate. This account
+having the mess status of the whole month. On the base of this account monthly charges of
+mess of a student will be defined.
+7.The hostel management system will allow renewing the student’s registration every year.the
+rooms of hostel are composed of table and beds,where a count of the same is maintained and
+the allot-es can use them as they wish
