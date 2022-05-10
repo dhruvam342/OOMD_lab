@@ -1,0 +1,18 @@
+1.The vending machine must have money box, coin slot, display screen and products i.e coffee
+for the machine to be used.
+2.The user on selecting a coffee ,the coffee machine must be able to dispense the selected coffee
+to the user.
+3.The user shall get empty cup placed right below the filter.The user shall be able to choose his
+preferred beverage from the list of options(buttons).
+4.There must be buttons(start,pause,stop,coffee,tea,milk) for user to interact with the system.
+5.The user shall be able to purchase one kind of available drink at a time and get back the exact
+changes if he has put extra money.
+6.The user shall be able to quit the dispense of any beverage
+at any time during the dispensing.
+7.The system(machine) shall check for properly inserted coins.
+8.The system shall be able to dispense coffee(or selected beverage) after a coin has been inserted.
+9.The system must accept coins of different amount and the system must compare the item cost
+with entered coin.
+10.The system must check the validity of coins.
+11.The system shall be able to detect the low amount of ingredients and low number of cups and
+indicate with an indicator(small LED).
