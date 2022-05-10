@@ -1,0 +1,16 @@
+1.The customer can purchase one or more product on any day,which will have a code price
+and quantity.
+2.The customer will need to pay the bill for the products he or she has purchased.the bill
+number,type description and customer who is paying the bill is maintained.
+3.The stock of the products is maintained separately,The stock deals with information about
+the details of the product that the concern handling.
+4.Stock consist of details such as the name of the product, id generated, quantity, cost, etc. 
+this information is retrieved during the sales and purchase of a product.  The vendor deals with 
+the information about the details of the suppliers giving product to the
+organization.
+5.Vendor consist of details such as vendor name, address, email id, sales tax number etc. This
+information is retrieved when a Purchase is done
+6.The products are displayed in stores across the city or world. All the information regarding
+the store such as store id,name,address and type are used to locate any product.The stores
+can be of many types.Some of them are departmental stores,super markets and ware houses
+where the products are kept for display.
