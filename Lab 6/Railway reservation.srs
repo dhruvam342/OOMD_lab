@@ -1,0 +1,17 @@
+1.Each user should have a user id and a password.Record of the users of the system
+should be kept in the log file. Provision should be made for full backup of the system.
+2.The customers can view the trains available at any day,the cost and number of tickets available
+for any train.
+3.Customer can book a ticket only if the tickets are available.Customer searches for the
+availability of tickets then if the tickets are available he books the tickets by initially filling
+details in a form.
+4.Tickets can be booked in two ways by i-ticket or by e-ticket booking.
+5.In case of i-ticket booking customer can book the tickets online and the tickets are couriered
+to Particular customer at their address.But in case of e-ticket booking and canceling tickets
+are booked and canceled online sitting at the home and customer himself has to take print of
+the ticket but in both the cases amount for tickets are deducted from customers account.
+6.For cancellation of ticket the customer has to go at reservation office than fill cancellation
+form and ask the clerk to cancel the ticket than the refund is transferred to customer account.
+7.After booking ticket the customer has to checkout by paying fare amount to clerk.
+8.The system displays the details of train of which user enter the name.The
+information is saved and the corresponding updating take place in the database
