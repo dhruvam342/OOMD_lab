@@ -1,0 +1,17 @@
+1.The graphical editor consists of a graphical document editor which can be used to create new
+document,delete document,update or view the document.
+2.The graphical document editor consists of many documents,where each document can be
+saved,opened,printed or create a new one
+3.A document is made up of many sheets which can have graphics included in them.
+4.Sheets have multiple number of drawing objects,which can be created, grouped or
+formatted.
+5.The programmer must provide implementations of functions that draw objects and their
+connections, as well as functions that add and remove connections. The latter function will
+be handled by a specific event listener. Any changes made in real-time to the underlying
+model will also be updated in the diagram through a separate event listener
+6.The user can also add and remove connections between these objects as needed using the
+palette supplied, thus modifying the underlying model.
+7.Each sheet contains drawing objects, including text, geometrical objects and groups.A group
+is simply a set of drawing objects.
+8.A geometrical object includes circle, ellipse, rectangles, lines and squares,trapeziums which
+are identified by their respective constraints.
