@@ -1,0 +1,14 @@
+1.The customer must have an account in the online website where he/she can purchase products.
+2.If customer wants to buy the product then he/she must be registered, unregistered user can’t
+go to the shopping cart.
+3.Customer login to the system by entering valid user id and password for the shopping.
+4.Changes to cart means the customer after login or registration can make order or cancel
+order of the product from the shopping cart.
+5.The products sold for customers are sold for various categories like men,women,kids and
+home products.
+6.Customers can view all available products ,compare them and make a choice for purchasing
+the products.
+7.For customer there are many type of secure billing will be prepaid as debit or credit card, 
+post paid as after shipping, check or bank draft. The security will provide by the third party
+like Pay-Pal etc.
+8.After the payment or surf the product the customer will logged out.
